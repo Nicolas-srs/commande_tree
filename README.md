@@ -2,8 +2,8 @@
 Ce script simule la commande tree de linux
 
 <h3>Utilisation</h3> 
-<i>./commande_tree dossier/</i>
-Tout comme la commande *ls* ou *tree*, si aucun argument n'est donné au script, c'est le répertoire courant qui est considéré.<br/>
+<i>./commande_tree dossier/</i><br/>
+Tout comme la commande <i>ls</i> ou <i>tree</i>, si aucun argument n'est donné au script, c'est le répertoire courant qui est considéré.<br/>
 
 <h3>Résultat</h3>
 Les fichiers sont précédés de "+--"<br/>
